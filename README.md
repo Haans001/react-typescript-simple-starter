@@ -13,7 +13,7 @@ git clone https://github.com/Haans001/react-typescript-simple-starter .
 ```
 npm start
 ```
-3. Now your react app is running at `http://localhost:3000` .
+3. Now your app is running at `http://localhost:3000` .
 
 
 ## 🧰 Tech stack
