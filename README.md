@@ -22,3 +22,7 @@ npm start
 * Eslint (Airbnb setup)
 * Prettier
 * Axios
+
+## License 
+Copyright © 2021 hans001 This source code is licensed under the MIT license found in the
+[LICENSE](https://github.com/Haans001/react-typescript-simple-starter/blob/main/LICENSE) file.
